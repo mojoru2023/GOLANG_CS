@@ -1,15 +1,16 @@
 package main
 
-import (
-	"fmt"
-	"io/ioutil"
-)
+import "fmt"
 
-type Page struct{
-	Title string
-	Body []byte
+func Sqrt(x float64) float64  {
+	z := 0.0
+	for i:=0;i<1000 ;i++  {
+		z -= (z*z -x)/(2*x)
+	}
+	return z
 }
 
-func (p *Page) save() error{
-	filename := p.T
+func main()  {
+	s:=Sqrt(6)
+	fmt.Println(s)
 }
