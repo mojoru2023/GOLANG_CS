@@ -14,4 +14,3 @@ type Student struct {
 	spec string
 }
 
-fm

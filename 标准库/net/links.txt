@@ -1,0 +1,16 @@
+https://www.jianshu.com/p/4a3ae56237d6（阅览）
+https://blog.csdn.net/qq_37109456/article/details/108818779
+https://blog.csdn.net/u011127242/article/details/113844573
+https://www.infoq.cn/article/yfrpv2iprnh2wxdf6pdv
+https://cloud.tencent.com/developer/article/1693834
+https://wizardforcel.gitbooks.io/golang-stdlib-ref/content/86.html#IP.UnmarshalText
+https://www.cnblogs.com/zzr-stdio/p/9874759.html
+http://cngolib.com/net-http-httptest.html
+https://golang.org/pkg/net/
+https://draveness.me/golang/
+https://draveness.me/golang/docs/part4-advanced/ch09-stdlib/golang-net-http/
+http://aibenlin.com/golang/2019/06/01/golang-http.html
+https://studygolang.com/articles/11849
+https://studygolang.com/articles/11321
+https://cloud.tencent.com/developer/column/89133
+https://www.cnblogs.com/wanghui-garcia/p/10439027.html
